@@ -2,7 +2,9 @@
 University of Bedfordshire
 Computer Games Developement
 Year 1
-Group Assignment 2 Unity Game
+Group Assignment 2 
+
+C# and Unity Game
 
 Zak Rogers
 Dominick
