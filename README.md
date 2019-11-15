@@ -15,4 +15,4 @@ For our assignment in our first year of university we had to design and develope
 
 Our game was about a Knight who was having to fight his way back to his castle, which is under attack, saving his citizens along the way. We developed four levels including a tutorial and a boss fight. You can download a build version through our itch.io page https://3mangroup.itch.io/knightraider
 
-During the development I was the main programmer and here you can find the Code for the game which was writen by myself. We had six different enermies, so I wrote a Enermy superclass which each of the different enermy type's subclasses could inherit from. Here i wrote a a few shared methods which were virtual so i could adjust them in the child class.
+During the development I was the main programmer and here you can find the Code for the game which was writen by myself. We had six different enermies, so I wrote a Enermy superclass which each of the different enermy type's subclasses could inherit from. Here i wrote a a few shared methods which were virtual so i could override them in the child class.
